@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsant014
-- 👀 I’m interested in ... Cybersecuity 
-- 🌱 I’m currently learning ... Linux/Python/Powershell 
-- 💞️ I’m looking to collaborate on ... Python/Powershell 
+- 👀 I’m interested in ... Cloud computing 
+- 🌱 I’m currently learning ... Linux/Python/Kubernetes 
+- 💞️ I’m looking to collaborate on ... Python 
 - 📫 How to reach me ...
 
 <!---
